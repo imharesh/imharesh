@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/imharesh/imharesh/blob/main/1.gif"/></a>
 
 <h1 align="center">Hi, I'm Haresh</h1>
 <h3 align="center">❤️ A self-taught programmer 🧑‍💻 and born at very little age😜.</h3>
