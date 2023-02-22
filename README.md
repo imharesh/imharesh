@@ -1,9 +1,7 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/imharesh/imharesh/blob/main/1.gif"/></a>
-
 <h1 align="center">Hi, I'm Haresh</h1>
-<h3 align="center">❤️ A self-taught programmer 🧑‍💻 and born at very little age😜.</h3>
+
 
 
 ## 🙋‍♂️ About Me
