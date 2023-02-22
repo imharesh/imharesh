@@ -1,8 +1,9 @@
 
 
-
+<a href="#"><img width="100%" height="auto" src="https://github.com/imharesh/imharesh/blob/main/1.gif"/></a>
 
 <h1 align="center">Hi, I'm Haresh</h1>
+<h3 align="center">❤️ A self-taught programmer 🧑‍💻 and born at very little age😜.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,8 +11,6 @@
 - 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://imharesh.github.io/)**
 
 - 📫 How to reach me **hareshbaraiya2286@gmail.com**
 
