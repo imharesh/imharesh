@@ -14,7 +14,7 @@
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
-## 🚀 Languages and Tools:
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
